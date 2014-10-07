@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# 2Dgame2
+#
+
+projectname: 2Dgame2
+vendorid: com.justinestrellado.example
+mainmodule: com.justinestrellado.example.2dgame2
